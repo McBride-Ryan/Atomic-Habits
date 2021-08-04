@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "text": "wake up ",
+      "day": "everyday 0600",
+      "reminder": true,
+      "id": 1
+    }
+  ]
+}
